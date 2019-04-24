@@ -1,0 +1,7 @@
+﻿  Entity.c
+  Source.c
+z:\trash\project1\project1\source.c(71): warning C4473: "scanf": передано недостаточно аргументов для строки формата
+  z:\trash\project1\project1\source.c(71): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+  z:\trash\project1\project1\source.c(71): note: отсутствующий вариативный аргумент "1" требуется для строки форматирования "%s"
+  Создание кода...
+  Project1.vcxproj -> Z:\Trash\Project1\Debug\Project1.exe
